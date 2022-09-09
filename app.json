@@ -15,7 +15,7 @@
             "value": "",
             "required": true
         },
-        "USER": {
+        "USERNAME": {
             "description": "يوزر المطور",
             "value": "",
             "required": true
